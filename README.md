@@ -3,7 +3,13 @@ GAMES AND FUN !!!!1
 
 // here is a fun little single player game of  TIC TAC TOE you can enjoy .. 
 // DO GIVE YOUR FEEDBACK AS THERE IS A CHANCE OF IMPROVEMENT IN EVERYTHING
-
+// CLICK ON THE LINK OR COPY THE LINK TO PLAY 
+=====================================================================================
+https://replit.com/@HarmanSingh95/gamecpp-2#main.cpp
+=====================================================================================
+-------------------------------------------------------------------------------------
+// CODE GIVEN BELOW :
+-------------------------------------------------------------------------------------
 #include <ctime>
 #include <iostream>
 using namespace std;
